@@ -1,0 +1,24 @@
+{
+  "name": "hw-12-sql-employee-tracer",
+  "version": "1.0.0",
+  "description": "Track employee data",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Soko77788/hw-12-sql-employee-tracer.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Soko77788/hw-12-sql-employee-tracer/issues"
+  },
+  "homepage": "https://github.com/Soko77788/hw-12-sql-employee-tracer#readme",
+  "dependencies": {
+    "inquirer": "^8.2.6",
+    "pg": "^8.11.5"
+  }
+}
