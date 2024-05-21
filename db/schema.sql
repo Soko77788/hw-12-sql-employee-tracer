@@ -1,4 +1,7 @@
 -- Table info given in the Challenge README
+CREATE DATABASE employee_db;
+
+\c employee_db
 
 CREATE TABLE department (
     id SERIAL PRIMARY KEY,
