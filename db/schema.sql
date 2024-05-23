@@ -1,3 +1,4 @@
+DROP DATABASE IF EXISTS employee_db;
 -- Table info given in the Challenge README
 CREATE DATABASE employee_db;
 
